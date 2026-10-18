@@ -1164,6 +1164,7 @@ recommendation, some of these locks are INSECURE, use at your own risk.
 
 - A03 siren
 - Airam S1WFAA siren
+- Airam Smart Siren
 - ECoolBuy Siren with temperature and humidity sensor
 - Neo Coolcam Siren with temperature and humidity alert (NAS-AB02W)
 - Orion Grid Connect SWS07HA indoor siren
